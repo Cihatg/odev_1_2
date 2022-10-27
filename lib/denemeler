@@ -1,0 +1,7 @@
+import 'dart:io';
+
+main(List<String> args) {
+  while(true) {
+    int? sayi = int.parse(stdin.readLineSync()!);
+  }
+}
